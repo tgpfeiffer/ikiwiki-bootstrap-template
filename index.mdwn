@@ -1,0 +1,4 @@
+[[!meta title="My Blog"]]
+
+[[!inline pages="page(*) and !*/Discussion" show="5"
+actions=yes rootpage="weblog" feeds=no]]
